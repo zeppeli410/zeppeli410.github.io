@@ -9,3 +9,7 @@ h1, li {
     text-decoration: aqua;
     font-size: larger;
 }
+
+h1 {
+    text-align: center;
+}
