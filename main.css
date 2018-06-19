@@ -6,8 +6,6 @@ body {
 h1, li {
     color: whitesmoke;
     text-shadow: 1px 1px 1px black;
-    text-align: center;
     text-decoration: aqua;
-    padding: 200x 0 0 0;
     font-size: larger;
 }
