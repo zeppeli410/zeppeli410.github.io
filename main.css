@@ -8,5 +8,5 @@ h1, li {
     text-shadow: 1px 1px 1px black;
     text-decoration: aqua;
     font-size: larger;
-    align-self: center;
+    align-content: center;
 }
