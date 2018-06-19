@@ -1,0 +1,12 @@
+body {
+    background-color: royalblue;
+
+}
+
+h1 {
+    color: yellow;
+    text-shadow: 1px 1px 1px black;
+    text-align: center;
+    text-decoration: aqua;
+    padding: 200px;
+}
