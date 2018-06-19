@@ -8,6 +8,6 @@ h1, li {
     text-shadow: 1px 1px 1px black;
     text-align: center;
     text-decoration: aqua;
-    padding: 200px;
+    padding: 200x 0 0 0;
     font-size: larger;
 }
